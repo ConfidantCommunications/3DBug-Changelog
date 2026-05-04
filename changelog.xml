@@ -1,43 +1,25 @@
 <changelogs>
     <changelog>
-        <element>com_lists</element>
+        <element>com_threedbug</element>
         <type>component</type>
-        <version>4.0.0</version>
+        <version>1.1.3</version>
         <security>
-            <item>Item A</item>
-            <item>Item b</item>
         </security>
         <fix>
-            <item>Item A</item>
-            <item>Item b</item>
+            <item>Fixed issue with splat loading in Firefox on iOS.</item>
         </fix>
         <language>
-            <item>Item A</item>
-            <item>Item b</item>
         </language>
         <addition>
-            <item>Item A</item>
-            <item>Item b</item>
+            <item>Added public changelog repository.</item>
         </addition>
         <change>
-            <item>Item A</item>
-            <item>Item b</item>
+            <item>Better handling of layout changes.</item>
         </change>
         <remove>
-            <item>Item A</item>
-            <item>Item b</item>
         </remove>
         <note>
-            <item>Item A</item>
-            <item>Item b</item>
+            <item>First update after acceptance into the Joomla Extensions Directory.</item>
         </note>
-    </changelog>
-    <changelog>
-        <element>com_lists</element>
-        <type>component</type>
-        <version>0.0.2</version>
-        <security>
-            <item>Big issue</item>
-        </security>
     </changelog>
 </changelogs>
