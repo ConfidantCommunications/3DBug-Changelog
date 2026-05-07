@@ -2,6 +2,33 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.2.0</version>
+        <security>
+        </security>
+        <fix>
+            <item>Fixed error caused by loading room with zero assets.</item>
+            <item>Fixed action button reference when unloading/reloading splat view.</item>
+        </fix>
+        <language>
+        </language>
+        <addition>
+            <item>Added ability to embed asset models into room models.</item>
+            <item>Added vertical positioning controls for 3d assets. </item>
+        </addition>
+        <change>
+            <item>Better formatting on news items on dashboard.</item>
+            <item>Better asset marker visibility.</item>
+            <item>Made asset not inherit the roomOrigin.y value.</item>
+            <item>Increased maximum zoom level.</item>
+        </change>
+        <remove>
+        </remove>
+        <note>
+        </note>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.1.4</version>
         <change>
             <item>Preventing scroll event handling on map when top document has scroll room.</item>
