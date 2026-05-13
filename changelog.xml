@@ -2,10 +2,11 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
-        <version>1.3.0</version>
+        <version>1.3.1</version>
         <security>
         </security>
         <fix>
+            <item>Fixed asset marker sprite orientation bug.</item>
             <item>Fixed color on action button.</item>
             <item>Fixed error caused by null model path.</item>
         </fix>
