@@ -2,6 +2,22 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.3.4</version>
+        <fix>
+            <item>Fixed sprite layering.</item>
+            <item>Fixed navigation to always perform transitions as specified.</item>
+            <item>Fixed default colour alpha.</item>
+            <item>Fixed error caused by clicking assets tab when measurement box is selected.</item>
+            <item>Changed over-eager value setting for room font and font size.</item>
+            <item>Fixed room behaviour data.</item>
+        </fix>
+        <change>
+            <item>Made camera controls use async, which will allow for chaining in future if necessary.</item>
+        </change>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.3.3</version>
         <fix>
             <item>Fixed pinch zoom behavior for camera controls.</item>
