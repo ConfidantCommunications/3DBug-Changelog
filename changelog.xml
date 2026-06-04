@@ -2,6 +2,13 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.3.5</version>
+        <fix>Improved camera navigation: face forward before truck and dolly.</fix>
+        <fix>Change "Zoom Room" to "Focus Room" and add data upgrade. Fix label in asset text settings box.</fix>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.3.4</version>
         <fix>
             <item>Fixed asset text settings data handling.</item>
