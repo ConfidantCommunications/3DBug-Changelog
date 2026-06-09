@@ -2,6 +2,14 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.4.0</version>
+        <addition>
+            <item>Added initial support for deep linking. Added ROOM_LINK to asset behaviour.</item>
+        </addition>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.3.6</version>
         <fix>
             <item>Fixed full screen mode feature detection for Firefox iOS</item>
