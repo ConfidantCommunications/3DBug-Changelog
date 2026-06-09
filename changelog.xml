@@ -3,6 +3,9 @@
         <element>com_threedbug</element>
         <type>component</type>
         <version>1.4.0</version>
+        <fix>
+            <item>Improved disposal of assets between splat transitions.</item>
+        </fix>
         <addition>
             <item>Added initial support for deep linking. Added ROOM_LINK to asset behaviour.</item>
         </addition>
