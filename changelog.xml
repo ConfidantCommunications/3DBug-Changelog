@@ -2,6 +2,17 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.4.1</version>
+        <addition>
+            <item>Added support for SVG graphics as background image.</item>
+        </addition>
+        <change>
+            <item>Upgraded SVG renderer.</item>
+        </change>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.4.0</version>
         <fix>
             <item>Improved disposal of assets between splat transitions.</item>
