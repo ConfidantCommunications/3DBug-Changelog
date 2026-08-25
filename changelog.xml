@@ -2,6 +2,14 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.4.4</version>
+        <fix>
+            <item>Text settings for rooms no longer conflict with world settings.</item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.4.3</version>
         <addition>
             <item>Improved layout handling for mobile devices when changing layout modes.</item>
