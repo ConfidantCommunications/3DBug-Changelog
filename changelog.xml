@@ -2,6 +2,14 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.4.5</version>
+        <fix>
+            <item>Moved small map to top to avoid overlap on action button.</item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.4.4</version>
         <fix>
             <item>Text settings for rooms no longer conflict with world settings.</item>
