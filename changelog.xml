@@ -2,6 +2,17 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.5.0</version>
+        <addition>
+            <item>Added Exporter function. Look for the button beside the Preview and Save buttons.</item>
+        </addition>
+        <fix>
+            <item>Fixed duplicate Preview button issue.</item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.4.5</version>
         <fix>
             <item>Moved small map to top to avoid overlap on action button.</item>
