@@ -2,6 +2,17 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.5.1</version>
+        <change>
+            <item>Scaling circle sizes with zoom settings.</item>
+        </change>
+        <fix>
+            <item>Removed click ability on text fields because it was staying active on transparent text. </item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.5.0</version>
         <addition>
             <item>Added Exporter function. Look for the button beside the Preview and Save buttons.</item>
