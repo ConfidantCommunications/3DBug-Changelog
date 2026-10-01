@@ -3,6 +3,9 @@
         <element>com_threedbug</element>
         <type>component</type>
         <version>1.5.1</version>
+        <addition>
+            <item>Added Callout and Tooltip as rollover behaviours to rooms</item>
+        </addition>
         <change>
             <item>Scaling circle sizes with zoom settings.</item>
         </change>
