@@ -2,6 +2,14 @@
     <changelog>
         <element>com_threedbug</element>
         <type>component</type>
+        <version>1.6.0</version>
+        <change>
+            <item>Updated the SparkJS library to 2.4.0. This enables support for SPZ version 4 and carries improvements for LoD rendering.</item>
+        </change>
+    </changelog>
+    <changelog>
+        <element>com_threedbug</element>
+        <type>component</type>
         <version>1.5.2</version>
         <fix>
             <item>Fixed display of action button link and text.</item>
